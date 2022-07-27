@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JovDev
 - 👀 I’m interested in frontend development and UX/UI.
-- 🌱 I’m currently learning a basic full stack course, an introduction to HTML, CSS, Javascritp, PHP and SQL.
+- 🌱 I’m currently learning a basic full stack course, an introduction to HTML, CSS, Javascritp, PHP,SQL and GIT.
 - 📫 How to reach me ... sjovadev@gmail.com
